@@ -21,12 +21,11 @@ Website ini dibuat dengan tampilan yang sederhana agar pembeli dapat dengan muda
 3. Letakan di Xampp > htdocs
 4. Buka XAMPP nyalahkan Apache dan MySQL
 4. Jalankan menggunakan browser
-	- <p>untuk membuka order barang masuk ke</p><a href="http://localhost/project-mini/">
-	- <p>untuk membuka admin masuk ke</p> 
-		<a href="http://localhost/project-mini/order/admin">
+	- <p>untuk membuka order barang masuk ke http://localhost/project-mini/</p>
+	- <p>untuk membuka admin masuk ke http://localhost/project-mini/order/admin</p>
 
 ## Tests
 
-1. Jika ingin mengorder barang klik disini <a href="http://localhost/project-mini/">
-2. Jika ingin masuk ke admin klik disini<a href="http://localhost/project-mini/order/admin">
-3. Jika ingin melihat dan mengedit orderan yang telah masuk klik disini <a href="http://localhost/project-mini/order/form_order"> 
+1. Jika ingin mengorder barang dapat copy link berikut http://localhost/project-mini/
+2. Jika ingin masuk ke admin dapat copy link berikut //localhost/project-mini/order/admin
+3. Jika ingin melihat dan mengedit orderan yang telah masuk dapat copy link berikut http://localhost/project-mini/order/form_order"
