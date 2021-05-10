@@ -20,7 +20,12 @@ Website ini dibuat dengan tampilan yang sederhana agar pembeli dapat dengan muda
 2. Ekstrak file tersebut
 3. Letakan di Xampp > htdocs
 4. Buka XAMPP nyalahkan Apache dan MySQL
-4. Jalankan menggunakan browser
+5. Setelah itu masuk ke PhpMyAdmin
+6. Klik Import
+7. Kemudian pilih Choose File
+8. Buka file project-mini/database/mini.sql
+9. Setelah itu klik go
+10. Jalankan menggunakan browser
 	- <p>untuk membuka order barang masuk ke http://localhost/project-mini/</p>
 	- <p>untuk membuka admin masuk ke http://localhost/project-mini/order/admin</p>
 
