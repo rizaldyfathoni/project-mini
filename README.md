@@ -27,5 +27,5 @@ Website ini dibuat dengan tampilan yang sederhana agar pembeli dapat dengan muda
 ## Tests
 
 1. Jika ingin mengorder barang dapat copy link berikut http://localhost/project-mini/
-2. Jika ingin masuk ke admin dapat copy link berikut //localhost/project-mini/order/admin
+2. Jika ingin masuk ke admin dapat copy link berikut http://localhost/project-mini/order/admin
 3. Jika ingin melihat dan mengedit orderan yang telah masuk dapat copy link berikut http://localhost/project-mini/order/form_order"
